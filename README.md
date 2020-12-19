@@ -1,2 +1,5 @@
 # GoLang-Projet-ELP
-TestGitHub
+Allain PIERRICK
+Esteban AVILA
+Bella DIALLO
+Lucas JARJAT
